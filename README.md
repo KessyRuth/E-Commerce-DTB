@@ -10,10 +10,6 @@ This repository contains the schema for an e-commerce database, designed to mana
 
 The database is built using MySQL, and the structure allows for easy expansion to accommodate more complex e-commerce systems.
 
-## Group Members
-- **Kessy Akinyi** (Collaborator)
-- **Group Name**: 781
-
 ## Tables Overview
 
 The database includes the following tables:
